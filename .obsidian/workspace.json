@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "213b610361eedb3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "407156d9d07b9975",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "604a80e159c6b2c3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "drawings/2022-09-15 15.16.02.device token.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56192c55977f9e24",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8045f53646605db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "629777a35a80452e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7d91cfc1ad1fceb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3600e26b775469fe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56ab523ac409a1a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c244699dac1d31e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a90a6bfe8e30057e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "drawings/2022-09-15 15.16.02.device token.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b36496936d73d5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "drawings/2022-09-15 15.16.02.device token.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2846a3cebbcf572",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2e66e3983b49853",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "drawings/2022-09-15 15.16.02.device token.md"
+              }
+            }
+          },
+          {
+            "id": "c8e1bc693e87a4a9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "604a80e159c6b2c3",
+  "lastOpenFiles": [
+    "drawings/2022-10-13 12.23 tracking UI proposal.md",
+    "Excalidraw/Drawing 2022-10-13 19.50.35.excalidraw.md",
+    "PhX Deep Tech.md",
+    "tools/tools stacks.md",
+    "tools/repository.md",
+    "tools/OBS + VDO (ninja).md",
+    "drawings/2022-09-09 19.03.The Pause App..md",
+    "drawings/2022-07-03 16.22 user seq diagram for recommendation.md"
+  ]
+}
