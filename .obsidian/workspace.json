@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "drawings/2022-09-15 15.16.02.device token.md"
+                "file": "drawings/2022-07-03 16.22 user seq diagram for recommendation.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drawings/2022-09-15 15.16.02.device token.md",
+                "file": "drawings/2022-07-03 16.22 user seq diagram for recommendation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drawings/2022-09-15 15.16.02.device token.md",
+                "file": "drawings/2022-07-03 16.22 user seq diagram for recommendation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drawings/2022-09-15 15.16.02.device token.md"
+                "file": "drawings/2022-07-03 16.22 user seq diagram for recommendation.md"
               }
             }
           },
@@ -140,20 +140,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 223.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "604a80e159c6b2c3",
   "lastOpenFiles": [
+    "drawings/2022-08-23 22.01.44 Swiss Number.md",
+    "drawings/2022-07-03 16.22 user seq diagram for recommendation.md",
+    "drawings/2022-09-09 19.03.The Pause App..md",
+    "drawings/2022-09-15 15.16.02.device token.md",
     "drawings/2022-10-13 12.23 tracking UI proposal.md",
-    "Excalidraw/Drawing 2022-10-13 19.50.35.excalidraw.md",
+    "drawings/2022-10-13 19.50.35.excalidraw.md",
     "PhX Deep Tech.md",
     "tools/tools stacks.md",
     "tools/repository.md",
-    "tools/OBS + VDO (ninja).md",
-    "drawings/2022-09-09 19.03.The Pause App..md",
-    "drawings/2022-07-03 16.22 user seq diagram for recommendation.md"
+    "tools/OBS + VDO (ninja).md"
   ]
 }
