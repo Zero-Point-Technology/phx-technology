@@ -21,10 +21,20 @@
             "id": "0fc805d35675a9fe",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "drawings/2022-10-13 12.23 tracking UI proposal.md"
+                "file": "PhX Deep Tech.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          },
+          {
+            "id": "5d2a86af4e8f882d",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ],
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drawings/2022-10-13 12.23 tracking UI proposal.md",
+                "file": "PhX Deep Tech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drawings/2022-10-13 12.23 tracking UI proposal.md",
+                "file": "PhX Deep Tech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drawings/2022-10-13 12.23 tracking UI proposal.md"
+                "file": "PhX Deep Tech.md"
               }
             }
           },
@@ -151,19 +161,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 200
   },
   "active": "0fc805d35675a9fe",
   "lastOpenFiles": [
     "tools/tools stacks.md",
+    "PhX Deep Tech.md",
+    "drawings/2022-10-13 12.23 tracking UI proposal.md",
     "application/wireframe/2022-09-09 19.03.The Pause App..md",
     "application/wireframe/2022-10-13 12.23 tracking UI proposal.md",
     "drawings/2022-09-09 19.03.The Pause App..md",
-    "drawings/2022-10-13 12.23 tracking UI proposal.md",
     "drawings/2022-10-13 19.50.35.excalidraw.md",
     "drawings/2022-07-03 16.22 user seq diagram for recommendation.md",
     "drawings/2022-08-23 22.01.44 Swiss Number.md",
-    "PhX Deep Tech.md",
     "drawings/2022-09-15 15.16.02.device token.md"
   ]
 }
