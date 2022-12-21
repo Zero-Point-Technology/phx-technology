@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <title>Backendless Project Template</title>
+</head>
+<body>
+<a href="javascript:getInstructions()">Get Instructions</a>
+<a href="javascript:addItem()">Add Item</a>
+<a href="javascript:getItems()">Get Items</a>
+<a href="javascript:purchase()">Purchase</a>
+<div id="output">
+
+</div>
+
+<script src="//api.backendless.com/sdk/js/latest/backendless.min.js"></script>
+<script>
+  const APP_ID = '2714EFAD-B2D1-AD62-FFFB-41A17CE9E900';
+  const API_KEY = '1F90A45A-DBB9-4262-8ED2-E057A63ED2E0';
+Backendless.serverURL = "https://eu-api.backendless.com";
+Backendless.initApp('https://perfectcompany.backendless.app');
+</script>
+<script src="js/services/CodelessShoppingCartService.js"></script>
+<script src="js/controller.js"></script>
+
+</body>
+</html>

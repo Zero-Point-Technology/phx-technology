@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+    <meta charset="UTF-8">
+    <title>CodelessShoppingCartService</title>
+</head>
+<body>
+
+<script type="text/javascript" src="https://api.backendless.com/sdk/js/latest/backendless.min.js"></script>
+<script type="text/javascript">
+  const appId = '2714EFAD-B2D1-AD62-FFFB-41A17CE9E900';
+  const apiKey = '1F90A45A-DBB9-4262-8ED2-E057A63ED2E0';
+  const serverURL = 'https://api.backendless.com';
+
+  Backendless.serverURL = serverURL;
+  Backendless.initApp(appId, apiKey);
+</script>
+
+
+<script type="text/javascript" src="./js/services/CodelessShoppingCartService.js" ></script>
+            
+<p>You can invoke methods of your service like:<p>
+    Backendless.CodelessShoppingCartService.{{MethodName}}({{method arguments}});
+</body>
+</html>
+
